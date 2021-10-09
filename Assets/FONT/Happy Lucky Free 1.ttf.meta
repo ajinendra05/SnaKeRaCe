@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 533993b036de5c245b508388a679841d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Happy Lucky
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0b873e508872ab45afaa283cd2eba78, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

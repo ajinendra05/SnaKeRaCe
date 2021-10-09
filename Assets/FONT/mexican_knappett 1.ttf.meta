@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1f728a19bf4f63742ae22c642274c1bb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mexican Knappett
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e3c2f5d33f43cec499001648634c7521, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
